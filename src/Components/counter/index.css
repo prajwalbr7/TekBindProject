@@ -1,0 +1,29 @@
+div{
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    
+}
+span{
+    margin-left: 3rem;
+    margin-right: 3rem;
+    font-weight: bold;
+}
+button{
+    height: 2rem;
+    width: 3rem;
+    background-color: grey;
+    border-radius: 5px;
+    border-width: 0px;
+    cursor: pointer;
+
+}
+.red{
+    color: red;
+}
+.black{
+    color: black;
+}
+.green{
+    color: green;
+}

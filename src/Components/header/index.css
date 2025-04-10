@@ -1,0 +1,20 @@
+.HeaderParentContainer{
+    padding: 1rem 2rem 1rem 2rem;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: beige;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.IconContainer{
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    cursor: pointer;
+}
+.website-logo {
+    width: 165px;
+  }

@@ -1,0 +1,10 @@
+.liElement{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 2rem 0px 2rem;
+    margin: 2px;
+    max-width: 400px;
+    cursor: pointer;
+}

@@ -1,0 +1,12 @@
+div{
+    background-color: beige;
+    
+}
+h1{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+}
