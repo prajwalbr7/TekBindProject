@@ -1,15 +1,14 @@
 import { NavLink} from 'react-router-dom'
 import Header from '../header'
 import Footer from '../footer'
-import header1 from '../header1/header'
 import './index.css'
 
 
 const Home=()=>{
+   
     return(
         <>
         <Header/>
-        <header1/>
         <div className="home-container">
         <div className="home-content">
           <h1 className="home-heading">Products That Get YOU Noticed</h1>
